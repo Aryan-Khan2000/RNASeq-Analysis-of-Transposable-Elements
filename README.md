@@ -1,1 +1,1 @@
-# RNASeq-TEs
+# RNASeq-Analysis-of-Transposable-Elements
