@@ -1,6 +1,6 @@
-# Dissertation Project
+# Thesis
 
-During my time as a bioinformatics student I did a final year project that took my knowledge of genetics, statistics, and computer science to the test. This project was finding the pathways and mechanisms responsible for the regulation of transposable element expression.
+During my time as a bioinformatics student I did a final year project that took my knowledge of genetics, statistics, and computer science to the test. [This project was finding the pathways and mechanisms responsible for the regulation of transposable element expression](https://github.com/Aryan-Khan2000/RNASeq-Analysis-of-Transposable-Elements/edit/main/README.md)
 
 # What are Transposable Elements and why are they important
 
