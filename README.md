@@ -1,6 +1,8 @@
 # Thesis
 This repository displays the code involved within my thesis; displaying the use of coding softwares such as Linux, Python, and R. As i was working with raw RNA sequencing data I needed a way to make sure my data was high quality to increase reporducibilty and reliablity. This led to the creation of a pipeline to clean my data, align the data to the correct genome, and perform differntial expression analysis to compare my samples gene expression which was visualiswed in the form of heatmaps and volcano plots.
-These softwares were used to create a pipeline
+These softwares were used to create a pipeline. Within Linux many packages were used such as fastp, STAR, and mmquant in order to clean and align the data reads to the mouse genome to compare the gene expression. Python was used to remove duplicates of data that was generated and summed it all up as when using DESeq2 within R duplicates were not valid. When the duplicates were removed 
+![image](https://github.com/Aryan-Khan2000/RNASeq-Analysis-of-Transposable-Elements/assets/93936591/0545cdef-f710-48a2-b494-e71d5c150d48)
+Figure 1- RNASeq analysis workflow. Raw sequences were first checked quality using FastQC, with adapters and low-quality reads trimmed using Fastp. Reads were then aligned to the GRCm39 reference mouse genome using STAR. mmquant was performed to get count mapped reads. Differential expression analysis was performed using DESeq2 to generate figures to display the count reads. This figure was created using BioRender.
 
 
 During my time as a bioinformatics student I did a final year project that took my knowledge of genetics, statistics, and computer science to the test. [This project was finding the pathways and mechanisms responsible for the regulation of transposable element expression](https://github.com/Aryan-Khan2000/RNASeq-Analysis-of-Transposable-Elements/edit/main/README.md)
