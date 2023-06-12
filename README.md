@@ -1,4 +1,7 @@
 # Thesis
+This repository displays the code involved within my thesis; displaying the use of coding softwares such as Linux, Python, and R. As i was working with raw RNA sequencing data I needed a way to make sure my data was high quality to increase reporducibilty and reliablity. This led to the creation of a pipeline to clean my data, align the data to the correct genome, and perform differntial expression analysis to compare my samples gene expression which was visualiswed in the form of heatmaps and volcano plots.
+These softwares were used to create a pipeline
+
 
 During my time as a bioinformatics student I did a final year project that took my knowledge of genetics, statistics, and computer science to the test. [This project was finding the pathways and mechanisms responsible for the regulation of transposable element expression](https://github.com/Aryan-Khan2000/RNASeq-Analysis-of-Transposable-Elements/edit/main/README.md)
 
